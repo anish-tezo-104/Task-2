@@ -17,7 +17,9 @@
 .filter-icon {
     margin: 0 1rem 0 0;
 }
-
+.filter-btn div {
+  color: #9E9EA4!important;
+}
 .filter-icon.active {
     transform: scale(1.2);
 }
